@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Welcome to https://github.com/pure-pay/ - the public home of PurePay payroll on Github
 <!--
 
 **Here are some ideas to get you started:**
